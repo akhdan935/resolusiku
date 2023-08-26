@@ -3,6 +3,7 @@ RENCANAKU
 - Lorem, ipsum dolor.
   * Lorem.
   * Lorem, ipsum.
+- Lorem, ipsum dolor.
 - Lorem, ipsum.
 - Lorem, ipsum.
 - Lorem.
